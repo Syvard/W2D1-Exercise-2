@@ -1,0 +1,22 @@
+{
+  "name": "exercise-2",
+  "version": "1.0.0",
+  "description": "Second exercise in day 1 of week 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhtMage/W2D1-Exercise-2.git"
+  },
+  "author": "Chris Northwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhtMage/W2D1-Exercise-2/issues"
+  },
+  "homepage": "https://github.com/WhtMage/W2D1-Exercise-2#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
